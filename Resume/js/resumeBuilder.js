@@ -9,7 +9,7 @@ var bio = {
 	  "Mobile:": "323-208-1420",
 	  "Email:": "xiewisdom@gmail.com",
 	  "Github:": "https://github.com/lanttern/",
-	  "Porfolio:": "http://lanttern.github.io/projects/",
+	  "Portfolio:": "http://lanttern.github.io/projects/",
 	  "Location:": "Los Angeles, California"
 	},
 	"picture":"images/fry.jpg",
